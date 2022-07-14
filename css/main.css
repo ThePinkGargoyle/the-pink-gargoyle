@@ -188,7 +188,7 @@ strong {
   padding: 15.5% 13%;
   margin-left: 0;
   margin-right: 2rem;
-  margin-bottom: 9.5%;
+  margin-bottom: 11%;
   border-radius: 50%;
 }
 
@@ -217,8 +217,12 @@ footer {
   letter-spacing: 1rem;
 }
 
+.social-media-icon img {
+  width: 60px;
+}
+
 .contact-info {
-  padding-top: 1.5rem;
+  padding-top: .5rem;
   margin-left: 10rem;
 }
 
@@ -230,7 +234,9 @@ footer {
 }
 
 .phone-icon {
+  width: 40px;
   float:left;
+  margin-top: .4rem;
   padding-right: 3rem;
 }
 
@@ -240,6 +246,7 @@ footer {
 }
 
 .email-icon {
+  width: 40px;
   float: left;
   padding-right: 3rem;
   margin-top: 1rem;
@@ -247,7 +254,7 @@ footer {
 
 .email {
   align-items: center;
-  margin-top: 5rem;
+  margin-top: 4.3rem;
 }
 
 
